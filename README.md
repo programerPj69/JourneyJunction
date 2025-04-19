@@ -2,7 +2,7 @@
 
 JourneyJunction is a React-based travel guide application focused on exploring Uttarakhand. It features destinations, accommodations, expense tracking, food guides, trip planning, authentication, and contact pages.
 ## LIVE 
-- link https://journeyjunctionpj.netlify.app
+- link https://journeyjunctions.netlify.app
 
 ![Untitled design](https://github.com/user-attachments/assets/7f9834c2-9b3d-4fd4-93f5-84e1453dcc3f)
 
